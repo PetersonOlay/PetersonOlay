@@ -18,12 +18,35 @@
 
 <br/>
 
-## About Me
+## 👨‍💻 About Me
 
-- I build and operate **Kubernetes clusters at scale** — 15+ microservices, multi-AZ EKS, from Dockerfiles to HPA to Network Policies.
-- Cut deployment times **from 2 hours to 15 minutes** by wiring Jenkins, GitHub Actions, and Argo CD into branch-based pipelines that just ship.
-- **Infrastructure as Code purist** — 200+ AWS resources in modular Terraform, zero drift, fully version-controlled.
-- Currently: **AWS Certified DevOps Engineer Pro** · MBA candidate · obsessed with GitOps and secrets management that doesn't suck.
+> *"Infrastructure as code. Reliability by design. Automation by default."*
+
+Results-driven **DevOps & Cloud Automation Engineer** with 5+ years designing, automating, and operating cloud infrastructure at scale — turning complex multi-service environments into self-healing, developer-friendly systems.
+
+**🐳 Container & Orchestration**
+- Kubernetes (EKS, AKS, GKE) — Deployments, StatefulSets, HPA, RBAC, Network Policies
+- Docker — lean Alpine Dockerfiles, private registries, multi-stage builds
+
+**☁️ Cloud & Infrastructure**
+- AWS — EC2, EKS, ECS, RDS, Lambda, S3, VPC, IAM, Secrets Manager
+- Terraform (200+ resources, modular IaC) · Ansible · CloudFormation
+
+**🔄 CI/CD & GitOps**
+- Jenkins · GitHub Actions · Argo CD · CircleCI
+- Branch-based delivery: feature → dev · release → staging · main → prod
+- Reduced deployment cycle from **2 hours → 15 minutes**
+
+**🔐 Security & Observability**
+- External Secrets Operator · AWS Secrets Manager · IAM least-privilege
+- Prometheus · Grafana · ELK/EFK · CloudWatch · NewRelic → **99.9% uptime**
+
+**🏆 Certifications & Education**
+- AWS Certified DevOps Engineer – Professional
+- MBA · Keller Graduate School of Management *(Expected Aug 2025)*
+- B.Sc. Technical/Project Management · DeVry University
+
+📍 Atlanta, GA &nbsp;·&nbsp; Remote-friendly &nbsp;·&nbsp; Open to new opportunities
 
 <br/>
 
