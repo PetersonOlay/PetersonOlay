@@ -76,7 +76,7 @@ I'm Peter 👋 a passionate Cloud/DevOps engineer with a strong background in cl
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetersonOlay&background=0c1222&border=1e3a5f&stroke=1e3a5f&ring=06b6d4&fire=8b5cf6&currStreakLabel=e2e8f0&sideLabels=64748b&dates=1e3a5f" height="200" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetersonOlay&background=0c1222&border=1e3a5f&stroke=1e3a5f&ring=06b6d4&fire=8b5cf6&currStreakNum=06b6d4&currStreakLabel=e2e8f0&sideNums=e2e8f0&sideLabels=64748b&dates=64748b" height="200" alt="GitHub streak stats" />
 </div>
 
 <br/>
