@@ -20,33 +20,21 @@
 
 ## 👨‍💻 About Me
 
-> *"Infrastructure as code. Reliability by design. Automation by default."*
+I'm Peter 👋 a passionate Cloud/DevOps engineer with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
 
-Results-driven **DevOps & Cloud Automation Engineer** with 5+ years designing, automating, and operating cloud infrastructure at scale — turning complex multi-service environments into self-healing, developer-friendly systems.
+**🔧 Technologies and Tools**
+- **Cloud:** AWS, Azure, GCP
+- **Containerization:** Docker, Kubernetes, ECS, EKS
+- **CI/CD:** Jenkins, GitHub Actions, CircleCI, Argo CD
+- **Config Management:** Ansible
+- **IaC:** Terraform, CloudFormation, Helm
+- **Monitoring:** Prometheus, Grafana, ELK Stack, CloudWatch, NewRelic
+- **Scripting:** Bash, Python, Go
+- **Programming:** TypeScript
+- **Version Control:** Git, GitHub, GitLab
+- **Security:** AWS Secrets Manager, IAM, RBAC, Network Policies, External Secrets Operator
 
-**🐳 Container & Orchestration**
-- Kubernetes (EKS, AKS, GKE) — Deployments, StatefulSets, HPA, RBAC, Network Policies
-- Docker — lean Alpine Dockerfiles, private registries, multi-stage builds
-
-**☁️ Cloud & Infrastructure**
-- AWS — EC2, EKS, ECS, RDS, Lambda, S3, VPC, IAM, Secrets Manager
-- Terraform (200+ resources, modular IaC) · Ansible · CloudFormation
-
-**🔄 CI/CD & GitOps**
-- Jenkins · GitHub Actions · Argo CD · CircleCI
-- Branch-based delivery: feature → dev · release → staging · main → prod
-- Reduced deployment cycle from **2 hours → 15 minutes**
-
-**🔐 Security & Observability**
-- External Secrets Operator · AWS Secrets Manager · IAM least-privilege
-- Prometheus · Grafana · ELK/EFK · CloudWatch · NewRelic → **99.9% uptime**
-
-**🏆 Certifications & Education**
-- AWS Certified DevOps Engineer – Professional
-- MBA · Keller Graduate School of Management *(Expected Aug 2025)*
-- B.Sc. Technical/Project Management · DeVry University
-
-📍 Atlanta, GA &nbsp;·&nbsp; Remote-friendly &nbsp;·&nbsp; Open to new opportunities
+📫 How to reach me: [peteolay@previselab.com](mailto:peteolay@previselab.com)
 
 <br/>
 
@@ -72,19 +60,12 @@ Results-driven **DevOps & Cloud Automation Engineer** with 5+ years designing, a
 
 | | |
 |---|---|
-| **[terraform-project-portfolio](https://github.com/PetersonOlay/terraform_project_portfolio)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/terraform_project_portfolio?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/terraform_project_portfolio?style=flat-square&color=64748b&labelColor=0c1222)<br/>Modular Terraform IaC for provisioning multi-AZ AWS environments — VPC, EKS, RDS, IAM, all version-controlled and repeatable. | **[CICD-Project](https://github.com/PetersonOlay/CICD_Project)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/CICD_Project?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/CICD_Project?style=flat-square&color=64748b&labelColor=0c1222)<br/>Automates AWS Lambda deployments via GitHub Actions — push to main, function ships. |
-| **[Previselab-ResumeApp](https://github.com/PetersonOlay/Previselab_ResumeApp)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/Previselab_ResumeApp?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/Previselab_ResumeApp?style=flat-square&color=64748b&labelColor=0c1222)<br/>CI/CD pipeline that auto-deploys a live resume on every commit — HTML → S3 → CloudFront, zero manual steps. | **[PreviseApp](https://github.com/PetersonOlay/PreviseApp)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/PreviseApp?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/PreviseApp?style=flat-square&color=64748b&labelColor=0c1222)<br/>HCL/Terraform infrastructure blueprints — cloud provisioning as declarative, auditable code. |
-| **[landmark-web-app](https://github.com/PetersonOlay/landmark-web-app)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/landmark-web-app?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/landmark-web-app?style=flat-square&color=64748b&labelColor=0c1222)<br/>JavaScript web application deployed on Kubernetes with automated CI/CD and multi-AZ availability. | **[MusangoExpress](https://github.com/PetersonOlay/MusangoExpress)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/MusangoExpress?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/MusangoExpress?style=flat-square&color=64748b&labelColor=0c1222)<br/>Full-stack web app with containerized deployment on AWS — Dockerized, load-balanced, production-ready. |
+| **[Deployment-of-Super-Mario-on-Kubernetes-using-Terraform](https://github.com/PetersonOlay/Deployment-of-Super-Mario-on-Kubernetes-using-Terraform)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/Deployment-of-Super-Mario-on-Kubernetes-using-Terraform?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/Deployment-of-Super-Mario-on-Kubernetes-using-Terraform?style=flat-square&color=64748b&labelColor=0c1222)<br/>Deploy Super Mario on Amazon EKS using Terraform — end-to-end Kubernetes orchestration and AWS infrastructure provisioning. | **[terraform-project-portfolio](https://github.com/PetersonOlay/terraform_project_portfolio)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/terraform_project_portfolio?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/terraform_project_portfolio?style=flat-square&color=64748b&labelColor=0c1222)<br/>Modular Terraform IaC for provisioning multi-AZ AWS environments — VPC, EKS, RDS, IAM, all version-controlled and repeatable. |
+| **[CICD-Project](https://github.com/PetersonOlay/CICD_Project)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/CICD_Project?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/CICD_Project?style=flat-square&color=64748b&labelColor=0c1222)<br/>Automates AWS Lambda deployments via GitHub Actions — push to main, function ships. | **[Previselab-ResumeApp](https://github.com/PetersonOlay/Previselab_ResumeApp)** &nbsp; ![Stars](https://img.shields.io/github/stars/PetersonOlay/Previselab_ResumeApp?style=flat-square&color=06b6d4&labelColor=0c1222) ![Forks](https://img.shields.io/github/forks/PetersonOlay/Previselab_ResumeApp?style=flat-square&color=64748b&labelColor=0c1222)<br/>CI/CD pipeline that auto-deploys a live resume on every commit — HTML → S3 → CloudFront, zero manual steps. |
 
 <br/>
 
 ## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetersonOlay&background=0c1222&border=1e3a5f&stroke=1e3a5f&ring=06b6d4&fire=8b5cf6&currStreakLabel=e2e8f0&sideLabels=64748b&dates=1e3a5f" height="200" alt="GitHub streak stats" />
-</div>
-
-<br/>
 
 <div align="center">
   <picture>
@@ -102,12 +83,4 @@ Results-driven **DevOps & Cloud Automation Engineer** with 5+ years designing, a
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PetersonOlay/PetersonOlay/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/PetersonOlay/PetersonOlay/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
   </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PetersonOlay&style=flat-square&color=06b6d4&labelColor=0c1222" alt="Profile views" />
-  <br/><br/>
-  <code>"Automate the boring stuff. Then automate everything else."</code>
 </div>
