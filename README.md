@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=06b6d4&center=true&vCenter=true&repeat=true&width=680&height=35&lines=Automating+The+Path+From+Code+To+Cloud;Building+Resilient+Systems+%F0%9F%9A%80;Building+%7C+Securing+%7C+Deploying+%F0%9F%93%A6;k8s+at+scale;AWS+Certified+DevOps+Pro+%F0%9F%8F%86" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=06b6d4&center=true&vCenter=true&repeat=true&width=680&height=35&lines=Automating+The+Path+From+Code+To+Cloud;Building+Resilient+Systems+%F0%9F%9A%80;Containerizing+%7C+Securing+%7C+Deploying+%F0%9F%93%A6;k8s+at+scale;AWS+Certified+DevOps+Pro+%F0%9F%8F%86" alt="Typing animation" />
 </div>
 
 <br/>
