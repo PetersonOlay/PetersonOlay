@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" width="100%" alt="Peterson Olay — DevOps · Cloud Infrastructure · SRE" />
+  <img src="header.svg" width="100%" alt="Peter Olay — DevOps · Cloud Automation · SRE" />
 </div>
 
 <div align="center">
