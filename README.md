@@ -68,7 +68,7 @@ I'm Peter 👋 a passionate Cloud/DevOps engineer with a strong background in cl
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PetersonOlay&show_icons=true&rank_icon=letter&count_private=true&bg_color=0c1222&title_color=06b6d4&text_color=e2e8f0&icon_color=06b6d4&border_color=1e3a5f" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PetersonOlay&show_icons=true&rank_icon=letter&count_private=true&hide=stars,contribs&bg_color=0c1222&title_color=06b6d4&text_color=e2e8f0&icon_color=06b6d4&border_color=1e3a5f" height="180" alt="GitHub stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonOlay&layout=compact&langs_count=6&bg_color=0c1222&title_color=06b6d4&text_color=e2e8f0&border_color=1e3a5f" height="180" alt="Top languages" />
 </div>
