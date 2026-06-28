@@ -68,6 +68,20 @@ I'm Peter 👋 a passionate Cloud/DevOps engineer with a strong background in cl
 ## GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PetersonOlay&show_icons=true&rank_icon=letter&count_private=true&bg_color=0c1222&title_color=06b6d4&text_color=e2e8f0&icon_color=06b6d4&border_color=1e3a5f" height="180" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonOlay&layout=compact&langs_count=6&bg_color=0c1222&title_color=06b6d4&text_color=e2e8f0&border_color=1e3a5f" height="180" alt="Top languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetersonOlay&background=0c1222&border=1e3a5f&stroke=1e3a5f&ring=06b6d4&fire=8b5cf6&currStreakLabel=e2e8f0&sideLabels=64748b&dates=1e3a5f" height="200" alt="GitHub streak stats" />
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PetersonOlay&bg_color=0c1222&color=06b6d4&line=06b6d4&point=e2e8f0&area=true&area_color=06b6d4&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PetersonOlay&bg_color=ffffff&color=06b6d4&line=06b6d4&point=1f2328&area=true&area_color=06b6d4&hide_border=true" />
