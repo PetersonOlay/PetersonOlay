@@ -34,7 +34,7 @@ I'm Peter 👋 a passionate Cloud/DevOps engineer with a strong background in cl
 - **Version Control:** Git, GitHub, GitLab
 - **Security:** AWS Secrets Manager, IAM, RBAC, Network Policies, External Secrets Operator
 
-📫 How to reach me: [peteolay@previselab.com](mailto:peteolay@previselab.com)
+📫 How to reach me: [peteolay.previselab.com](https://peteolay.previselab.com)
 
 <br/>
 
