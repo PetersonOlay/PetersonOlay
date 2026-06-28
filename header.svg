@@ -74,7 +74,7 @@
   <text x="600" y="160" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', monospace" font-size="17" font-weight="400" fill="#06b6d4" text-anchor="middle" letter-spacing="4">DEVOPS · CLOUD AUTOMATION · SRE</text>
 
   <!-- Tagline -->
-  <text x="600" y="215" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle" letter-spacing="1">Automating everything between git push and 99.9% uptime</text>
+  <text x="600" y="215" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#64748b" text-anchor="middle" letter-spacing="1">Building reliable infrastructure at scale — one pipeline at a time.</text>
 
   <!-- Bottom accent line -->
   <rect x="0" y="269" width="1200" height="1.5" fill="url(#border-grad)"/>
